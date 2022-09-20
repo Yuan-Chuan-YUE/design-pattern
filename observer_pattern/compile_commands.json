@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/qyyuan/playground/design_pattern/observer_pattern/build/src/Subject",
+  "command": "/usr/bin/c++  -I/home/qyyuan/playground/design_pattern/observer_pattern/include -std=gnu++11 -o CMakeFiles/Subject.dir/weather_data.cc.o -c /home/qyyuan/playground/design_pattern/observer_pattern/src/Subject/weather_data.cc",
+  "file": "/home/qyyuan/playground/design_pattern/observer_pattern/src/Subject/weather_data.cc"
+},
+{
+  "directory": "/home/qyyuan/playground/design_pattern/observer_pattern/build/src/Observer",
+  "command": "/usr/bin/c++  -I/home/qyyuan/playground/design_pattern/observer_pattern/include -std=gnu++11 -o CMakeFiles/Observer.dir/current_conditions_display.cc.o -c /home/qyyuan/playground/design_pattern/observer_pattern/src/Observer/current_conditions_display.cc",
+  "file": "/home/qyyuan/playground/design_pattern/observer_pattern/src/Observer/current_conditions_display.cc"
+},
+{
+  "directory": "/home/qyyuan/playground/design_pattern/observer_pattern/build/tools",
+  "command": "/usr/bin/c++  -I/home/qyyuan/playground/design_pattern/observer_pattern/include -std=gnu++11 -o CMakeFiles/ObserverPattern.dir/main.cc.o -c /home/qyyuan/playground/design_pattern/observer_pattern/tools/main.cc",
+  "file": "/home/qyyuan/playground/design_pattern/observer_pattern/tools/main.cc"
+}
+]

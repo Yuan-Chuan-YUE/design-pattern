@@ -1,0 +1,2 @@
+#define DecoratorPattern_VERSION_MAJOR @DecoratorPattern_VERSION_MAJOR@
+#define DecoratorPattern_VERSION_MINOR @DecoratorPattern_VERSION_MINOR@

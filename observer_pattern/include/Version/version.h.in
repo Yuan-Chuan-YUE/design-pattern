@@ -1,0 +1,2 @@
+#define ObserverPattern_VERSION_MAJOR @ObserverPattern_VERSION_MAJOR@
+#define ObserverPattern_VERSION_MINOR @ObserverPattern_VERSION_MINOR@

@@ -1,0 +1,2 @@
+#define StrategyPattern_VERSION_MAJOR @StrategyPattern_VERSION_MAJOR@
+#define StrategyPattern_VERSION_MINOR @StrategyPattern_VERSION_MINOR@
